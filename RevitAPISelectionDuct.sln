@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevitAPISelectionDuct", "RevitAPISelectionDuct\RevitAPISelectionDuct.csproj", "{7B8CB798-775D-4ABF-8680-FBDF09A20528}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B8CB798-775D-4ABF-8680-FBDF09A20528}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B8CB798-775D-4ABF-8680-FBDF09A20528}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B8CB798-775D-4ABF-8680-FBDF09A20528}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B8CB798-775D-4ABF-8680-FBDF09A20528}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81441A76-2DE8-4AA8-B324-083F496E517C}
+	EndGlobalSection
+EndGlobal
